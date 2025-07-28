@@ -1,0 +1,802 @@
+[
+  {
+    "trade_id": "T1200",
+    "executed": {
+      "time": "2025-07-21T15:40:00Z",
+      "details": {
+        "symbol": "AAPL",
+        "quantity": "349",
+        "price_per_unit": "404.97"
+      }
+    },
+    "broker": {
+      "name": "gammaEx",
+      "region": "APAC"
+    },
+    "side": "buy"
+  },
+  {
+    "trade_id": "T1201",
+    "executed": {
+      "time": "2025-07-21T15:40:30Z",
+      "details": {
+        "symbol": "TSLA",
+        "quantity": "991",
+        "price_per_unit": "317.19"
+      }
+    },
+    "broker": {
+      "name": "deltaBrokers",
+      "region": "NA"
+    },
+    "side": "sell"
+  },
+  {
+    "trade_id": "T1202",
+    "executed": {
+      "time": "2025-07-21T15:41:00Z",
+      "details": {
+        "symbol": "MSFT",
+        "quantity": "178",
+        "price_per_unit": "457.34"
+      }
+    },
+    "broker": {
+      "name": "alphaTrade",
+      "region": "APAC"
+    },
+    "side": "buy"
+  },
+  {
+    "trade_id": "T1203",
+    "executed": {
+      "time": "2025-07-21T15:41:30Z",
+      "details": {
+        "symbol": "GOOG",
+        "quantity": "459",
+        "price_per_unit": "609.17"
+      }
+    },
+    "broker": {
+      "name": "betaCorp",
+      "region": "NA"
+    },
+    "side": "buy"
+  },
+  {
+    "trade_id": "T1204",
+    "executed": {
+      "time": "2025-07-21T15:42:00Z",
+      "details": {
+        "symbol": "MSFT",
+        "quantity": "362",
+        "price_per_unit": "238.09"
+      }
+    },
+    "broker": {
+      "name": "betaCorp",
+      "region": "APAC"
+    },
+    "side": "buy"
+  },
+  {
+    "trade_id": "T1205",
+    "executed": {
+      "time": "2025-07-21T15:42:30Z",
+      "details": {
+        "symbol": "MSFT",
+        "quantity": "891",
+        "price_per_unit": "539.56"
+      }
+    },
+    "broker": {
+      "name": "gammaEx",
+      "region": "APAC"
+    },
+    "side": "sell"
+  },
+  {
+    "trade_id": "T1206",
+    "executed": {
+      "time": "2025-07-21T15:43:00Z",
+      "details": {
+        "symbol": "AMZN",
+        "quantity": "758",
+        "price_per_unit": "544.71"
+      }
+    },
+    "broker": {
+      "name": "deltaBrokers",
+      "region": "APAC"
+    },
+    "side": "sell"
+  },
+  {
+    "trade_id": "T1207",
+    "executed": {
+      "time": "2025-07-21T15:43:30Z",
+      "details": {
+        "symbol": "MSFT",
+        "quantity": "550",
+        "price_per_unit": "147.8"
+      }
+    },
+    "broker": {
+      "name": "gammaEx",
+      "region": "APAC"
+    },
+    "side": "sell"
+  },
+  {
+    "trade_id": "T1208",
+    "executed": {
+      "time": "2025-07-21T15:44:00Z",
+      "details": {
+        "symbol": "GOOG",
+        "quantity": "705",
+        "price_per_unit": "139.32"
+      }
+    },
+    "broker": {
+      "name": "alphaTrade",
+      "region": "EU"
+    },
+    "side": "sell"
+  },
+  {
+    "trade_id": "T1209",
+    "executed": {
+      "time": "2025-07-21T15:44:30Z",
+      "details": {
+        "symbol": "TSLA",
+        "quantity": "138",
+        "price_per_unit": "139.82"
+      }
+    },
+    "broker": {
+      "name": "deltaBrokers",
+      "region": "NA"
+    },
+    "side": "buy"
+  },
+  {
+    "trade_id": "T1210",
+    "executed": {
+      "time": "2025-07-21T15:45:00Z",
+      "details": {
+        "symbol": "AMZN",
+        "quantity": "708",
+        "price_per_unit": "454.95"
+      }
+    },
+    "broker": {
+      "name": "gammaEx",
+      "region": "APAC"
+    },
+    "side": "buy"
+  },
+  {
+    "trade_id": "T1211",
+    "executed": {
+      "time": "2025-07-21T15:45:30Z",
+      "details": {
+        "symbol": "TSLA",
+        "quantity": "929",
+        "price_per_unit": "500.16"
+      }
+    },
+    "broker": {
+      "name": "betaCorp",
+      "region": "EU"
+    },
+    "side": "sell"
+  },
+  {
+    "trade_id": "T1212",
+    "executed": {
+      "time": "2025-07-21T15:46:00Z",
+      "details": {
+        "symbol": "AMZN",
+        "quantity": "254",
+        "price_per_unit": "770.41"
+      }
+    },
+    "broker": {
+      "name": "gammaEx",
+      "region": "NA"
+    },
+    "side": "sell"
+  },
+  {
+    "trade_id": "T1213",
+    "executed": {
+      "time": "2025-07-21T15:46:30Z",
+      "details": {
+        "symbol": "AAPL",
+        "quantity": "616",
+        "price_per_unit": "552.29"
+      }
+    },
+    "broker": {
+      "name": "alphaTrade",
+      "region": "NA"
+    },
+    "side": "sell"
+  },
+  {
+    "trade_id": "T1214",
+    "executed": {
+      "time": "2025-07-21T15:47:00Z",
+      "details": {
+        "symbol": "TSLA",
+        "quantity": "636",
+        "price_per_unit": "465.92"
+      }
+    },
+    "broker": {
+      "name": "betaCorp",
+      "region": "EU"
+    },
+    "side": "sell"
+  },
+  {
+    "trade_id": "T1215",
+    "executed": {
+      "time": "2025-07-21T15:47:30Z",
+      "details": {
+        "symbol": "GOOG",
+        "quantity": "496",
+        "price_per_unit": "386.14"
+      }
+    },
+    "broker": {
+      "name": "deltaBrokers",
+      "region": "APAC"
+    },
+    "side": "buy"
+  },
+  {
+    "trade_id": "T1216",
+    "executed": {
+      "time": "2025-07-21T15:48:00Z",
+      "details": {
+        "symbol": "GOOG",
+        "quantity": "167",
+        "price_per_unit": "330.78"
+      }
+    },
+    "broker": {
+      "name": "gammaEx",
+      "region": "EU"
+    },
+    "side": "sell"
+  },
+  {
+    "trade_id": "T1217",
+    "executed": {
+      "time": "2025-07-21T15:48:30Z",
+      "details": {
+        "symbol": "AMZN",
+        "quantity": "994",
+        "price_per_unit": "205.26"
+      }
+    },
+    "broker": {
+      "name": "alphaTrade",
+      "region": "APAC"
+    },
+    "side": "buy"
+  },
+  {
+    "trade_id": "T1218",
+    "executed": {
+      "time": "2025-07-21T15:49:00Z",
+      "details": {
+        "symbol": "GOOG",
+        "quantity": "417",
+        "price_per_unit": "777.39"
+      }
+    },
+    "broker": {
+      "name": "gammaEx",
+      "region": "NA"
+    },
+    "side": "buy"
+  },
+  {
+    "trade_id": "T1219",
+    "executed": {
+      "time": "2025-07-21T15:49:30Z",
+      "details": {
+        "symbol": "GOOG",
+        "quantity": "672",
+        "price_per_unit": "363.68"
+      }
+    },
+    "broker": {
+      "name": "deltaBrokers",
+      "region": "NA"
+    },
+    "side": "buy"
+  },
+  {
+    "trade_id": "T1220",
+    "executed": {
+      "time": "2025-07-21T15:50:00Z",
+      "details": {
+        "symbol": "TSLA",
+        "quantity": "620",
+        "price_per_unit": "353.28"
+      }
+    },
+    "broker": {
+      "name": "deltaBrokers",
+      "region": "EU"
+    },
+    "side": "buy"
+  },
+  {
+    "trade_id": "T1221",
+    "executed": {
+      "time": "2025-07-21T15:50:30Z",
+      "details": {
+        "symbol": "MSFT",
+        "quantity": "449",
+        "price_per_unit": "763.37"
+      }
+    },
+    "broker": {
+      "name": "gammaEx",
+      "region": "NA"
+    },
+    "side": "buy"
+  },
+  {
+    "trade_id": "T1222",
+    "executed": {
+      "time": "2025-07-21T15:51:00Z",
+      "details": {
+        "symbol": "MSFT",
+        "quantity": "258",
+        "price_per_unit": "154.02"
+      }
+    },
+    "broker": {
+      "name": "alphaTrade",
+      "region": "APAC"
+    },
+    "side": "buy"
+  },
+  {
+    "trade_id": "T1223",
+    "executed": {
+      "time": "2025-07-21T15:51:30Z",
+      "details": {
+        "symbol": "GOOG",
+        "quantity": "997",
+        "price_per_unit": "636.42"
+      }
+    },
+    "broker": {
+      "name": "betaCorp",
+      "region": "APAC"
+    },
+    "side": "sell"
+  },
+  {
+    "trade_id": "T1224",
+    "executed": {
+      "time": "2025-07-21T15:52:00Z",
+      "details": {
+        "symbol": "MSFT",
+        "quantity": "266",
+        "price_per_unit": "226.59"
+      }
+    },
+    "broker": {
+      "name": "betaCorp",
+      "region": "APAC"
+    },
+    "side": "sell"
+  },
+  {
+    "trade_id": "T1225",
+    "executed": {
+      "time": "2025-07-21T15:52:30Z",
+      "details": {
+        "symbol": "AAPL",
+        "quantity": "520",
+        "price_per_unit": "355.01"
+      }
+    },
+    "broker": {
+      "name": "betaCorp",
+      "region": "EU"
+    },
+    "side": "sell"
+  },
+  {
+    "trade_id": "T1226",
+    "executed": {
+      "time": "2025-07-21T15:53:00Z",
+      "details": {
+        "symbol": "TSLA",
+        "quantity": "339",
+        "price_per_unit": "473.81"
+      }
+    },
+    "broker": {
+      "name": "deltaBrokers",
+      "region": "EU"
+    },
+    "side": "buy"
+  },
+  {
+    "trade_id": "T1227",
+    "executed": {
+      "time": "2025-07-21T15:53:30Z",
+      "details": {
+        "symbol": "GOOG",
+        "quantity": "794",
+        "price_per_unit": "762.99"
+      }
+    },
+    "broker": {
+      "name": "gammaEx",
+      "region": "EU"
+    },
+    "side": "sell"
+  },
+  {
+    "trade_id": "T1228",
+    "executed": {
+      "time": "2025-07-21T15:54:00Z",
+      "details": {
+        "symbol": "TSLA",
+        "quantity": "614",
+        "price_per_unit": "469.22"
+      }
+    },
+    "broker": {
+      "name": "betaCorp",
+      "region": "NA"
+    },
+    "side": "buy"
+  },
+  {
+    "trade_id": "T1229",
+    "executed": {
+      "time": "2025-07-21T15:54:30Z",
+      "details": {
+        "symbol": "GOOG",
+        "quantity": "153",
+        "price_per_unit": "548.83"
+      }
+    },
+    "broker": {
+      "name": "deltaBrokers",
+      "region": "APAC"
+    },
+    "side": "buy"
+  },
+  {
+    "trade_id": "T1230",
+    "executed": {
+      "time": "2025-07-21T15:55:00Z",
+      "details": {
+        "symbol": "AMZN",
+        "quantity": "971",
+        "price_per_unit": "187.27"
+      }
+    },
+    "broker": {
+      "name": "alphaTrade",
+      "region": "NA"
+    },
+    "side": "sell"
+  },
+  {
+    "trade_id": "T1231",
+    "executed": {
+      "time": "2025-07-21T15:55:30Z",
+      "details": {
+        "symbol": "TSLA",
+        "quantity": "625",
+        "price_per_unit": "203.14"
+      }
+    },
+    "broker": {
+      "name": "gammaEx",
+      "region": "NA"
+    },
+    "side": "buy"
+  },
+  {
+    "trade_id": "T1232",
+    "executed": {
+      "time": "2025-07-21T15:56:00Z",
+      "details": {
+        "symbol": "TSLA",
+        "quantity": "457",
+        "price_per_unit": "751.33"
+      }
+    },
+    "broker": {
+      "name": "gammaEx",
+      "region": "NA"
+    },
+    "side": "sell"
+  },
+  {
+    "trade_id": "T1233",
+    "executed": {
+      "time": "2025-07-21T15:56:30Z",
+      "details": {
+        "symbol": "AMZN",
+        "quantity": "482",
+        "price_per_unit": "265.04"
+      }
+    },
+    "broker": {
+      "name": "alphaTrade",
+      "region": "EU"
+    },
+    "side": "buy"
+  },
+  {
+    "trade_id": "T1234",
+    "executed": {
+      "time": "2025-07-21T15:57:00Z",
+      "details": {
+        "symbol": "AAPL",
+        "quantity": "426",
+        "price_per_unit": "751.58"
+      }
+    },
+    "broker": {
+      "name": "deltaBrokers",
+      "region": "NA"
+    },
+    "side": "buy"
+  },
+  {
+    "trade_id": "T1235",
+    "executed": {
+      "time": "2025-07-21T15:57:30Z",
+      "details": {
+        "symbol": "AAPL",
+        "quantity": "393",
+        "price_per_unit": "742.18"
+      }
+    },
+    "broker": {
+      "name": "gammaEx",
+      "region": "APAC"
+    },
+    "side": "buy"
+  },
+  {
+    "trade_id": "T1236",
+    "executed": {
+      "time": "2025-07-21T15:58:00Z",
+      "details": {
+        "symbol": "TSLA",
+        "quantity": "559",
+        "price_per_unit": "530.74"
+      }
+    },
+    "broker": {
+      "name": "alphaTrade",
+      "region": "NA"
+    },
+    "side": "sell"
+  },
+  {
+    "trade_id": "T1237",
+    "executed": {
+      "time": "2025-07-21T15:58:30Z",
+      "details": {
+        "symbol": "MSFT",
+        "quantity": "955",
+        "price_per_unit": "204.66"
+      }
+    },
+    "broker": {
+      "name": "gammaEx",
+      "region": "NA"
+    },
+    "side": "sell"
+  },
+  {
+    "trade_id": "T1238",
+    "executed": {
+      "time": "2025-07-21T15:59:00Z",
+      "details": {
+        "symbol": "MSFT",
+        "quantity": "408",
+        "price_per_unit": "185.29"
+      }
+    },
+    "broker": {
+      "name": "betaCorp",
+      "region": "EU"
+    },
+    "side": "sell"
+  },
+  {
+    "trade_id": "T1239",
+    "executed": {
+      "time": "2025-07-21T15:59:30Z",
+      "details": {
+        "symbol": "AAPL",
+        "quantity": "213",
+        "price_per_unit": "685.68"
+      }
+    },
+    "broker": {
+      "name": "gammaEx",
+      "region": "APAC"
+    },
+    "side": "buy"
+  },
+  {
+    "trade_id": "T1240",
+    "executed": {
+      "time": "2025-07-21T16:00:00Z",
+      "details": {
+        "symbol": "AMZN",
+        "quantity": "688",
+        "price_per_unit": "269.36"
+      }
+    },
+    "broker": {
+      "name": "betaCorp",
+      "region": "EU"
+    },
+    "side": "sell"
+  },
+  {
+    "trade_id": "T1241",
+    "executed": {
+      "time": "2025-07-21T16:00:30Z",
+      "details": {
+        "symbol": "AAPL",
+        "quantity": "729",
+        "price_per_unit": "346.97"
+      }
+    },
+    "broker": {
+      "name": "gammaEx",
+      "region": "NA"
+    },
+    "side": "buy"
+  },
+  {
+    "trade_id": "T1242",
+    "executed": {
+      "time": "2025-07-21T16:01:00Z",
+      "details": {
+        "symbol": "AMZN",
+        "quantity": "469",
+        "price_per_unit": "147.38"
+      }
+    },
+    "broker": {
+      "name": "alphaTrade",
+      "region": "EU"
+    },
+    "side": "sell"
+  },
+  {
+    "trade_id": "T1243",
+    "executed": {
+      "time": "2025-07-21T16:01:30Z",
+      "details": {
+        "symbol": "AAPL",
+        "quantity": "750",
+        "price_per_unit": "370.82"
+      }
+    },
+    "broker": {
+      "name": "deltaBrokers",
+      "region": "EU"
+    },
+    "side": "buy"
+  },
+  {
+    "trade_id": "T1244",
+    "executed": {
+      "time": "2025-07-21T16:02:00Z",
+      "details": {
+        "symbol": "GOOG",
+        "quantity": "907",
+        "price_per_unit": "147.29"
+      }
+    },
+    "broker": {
+      "name": "betaCorp",
+      "region": "APAC"
+    },
+    "side": "buy"
+  },
+  {
+    "trade_id": "T1245",
+    "executed": {
+      "time": "2025-07-21T16:02:30Z",
+      "details": {
+        "symbol": "AMZN",
+        "quantity": "852",
+        "price_per_unit": "629.68"
+      }
+    },
+    "broker": {
+      "name": "betaCorp",
+      "region": "NA"
+    },
+    "side": "sell"
+  },
+  {
+    "trade_id": "T1246",
+    "executed": {
+      "time": "2025-07-21T16:03:00Z",
+      "details": {
+        "symbol": "AMZN",
+        "quantity": "446",
+        "price_per_unit": "669.46"
+      }
+    },
+    "broker": {
+      "name": "betaCorp",
+      "region": "APAC"
+    },
+    "side": "sell"
+  },
+  {
+    "trade_id": "T1247",
+    "executed": {
+      "time": "2025-07-21T16:03:30Z",
+      "details": {
+        "symbol": "TSLA",
+        "quantity": "746",
+        "price_per_unit": "227.59"
+      }
+    },
+    "broker": {
+      "name": "betaCorp",
+      "region": "NA"
+    },
+    "side": "sell"
+  },
+  {
+    "trade_id": "T1248",
+    "executed": {
+      "time": "2025-07-21T16:04:00Z",
+      "details": {
+        "symbol": "AAPL",
+        "quantity": "400",
+        "price_per_unit": "241.11"
+      }
+    },
+    "broker": {
+      "name": "betaCorp",
+      "region": "NA"
+    },
+    "side": "sell"
+  },
+  {
+    "trade_id": "T1249",
+    "executed": {
+      "time": "2025-07-21T16:04:30Z",
+      "details": {
+        "symbol": "GOOG",
+        "quantity": "627",
+        "price_per_unit": "378.76"
+      }
+    },
+    "broker": {
+      "name": "gammaEx",
+      "region": "EU"
+    },
+    "side": "buy"
+  }
+]
